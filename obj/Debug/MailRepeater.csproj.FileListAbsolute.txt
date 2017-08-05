@@ -1,0 +1,42 @@
+C:\Users\Andrew\Desktop\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Desktop\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\MailRepeater\MailRepeater\bin\Debug\MailRepeater.pdb
+C:\Users\Andrew\Desktop\MailRepeater\MailRepeater\obj\Debug\MailRepeater.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MailRepeater\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\MailRepeater\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Finance PC\Desktop\repeater\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Finance PC\Desktop\repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Finance PC\Desktop\repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Finance PC\Desktop\repeater\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe
+C:\Users\Finance PC\Desktop\repeater\MailRepeater\MailRepeater\bin\Debug\MailRepeater.pdb
+C:\Users\Finance PC\Desktop\repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\repeater\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Desktop\repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Andrew\Desktop\repeater\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\repeater\MailRepeater\MailRepeater\bin\Debug\MailRepeater.pdb
+C:\Users\Andrew\Desktop\repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\repeater\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Desktop\repeater\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\repeater\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Andrew\Google Drive\Hejuu\technical\code\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Google Drive\Hejuu\technical\code\MailRepeater\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Google Drive\Hejuu\technical\code\MailRepeater\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Andrew\Google Drive\Hejuu\technical\mail repeater\MailRepeater\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Google Drive\Hejuu\technical\mail repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Google Drive\Hejuu\technical\mail repeater\MailRepeater\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Andrew\Google Drive\Hejuu\technical\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Google Drive\Hejuu\technical\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Google Drive\Hejuu\technical\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Andrew\Google Drive\Hejuu\technical\MailRepeater\bin\Debug\MailRepeater.exe
+C:\Users\Andrew\Google Drive\Hejuu\technical\MailRepeater\bin\Debug\MailRepeater.pdb
+C:\Users\Andrew\Google Drive\Hejuu\technical\MailRepeater\obj\Debug\MailRepeater.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Desktop\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\MailRepeater\obj\Debug\MailRepeater.pdb
+C:\Users\Andrew\Desktop\MailRepeater\bin\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\MailRepeater\bin\Debug\MailRepeater.pdb
+C:\Users\Andrew\Desktop\MailRepeater\obj\Debug\MailRepeater.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Projects\MailRepeater\bin\Debug\MailRepeater.exe.config
+C:\Users\Andrew\Desktop\Projects\MailRepeater\obj\Debug\MailRepeater.exe
+C:\Users\Andrew\Desktop\Projects\MailRepeater\obj\Debug\MailRepeater.pdb
